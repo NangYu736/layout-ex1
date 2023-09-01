@@ -1,0 +1,64 @@
+
+header h1{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 1px;
+    margin-bottom: 8px;
+}
+nav h1{
+    background-color: green;
+    text-align: center;
+    border-radius: 1px;
+    margin-top: auto;
+    height: 35px;
+    padding-top: 4px;
+}
+
+.aside {
+    background-color: greenyellow;
+    width: 30%;
+    padding-top: 150px;
+    padding-bottom: 130px;
+    margin-top: 5px;
+    float: left;
+    text-align: center;
+    
+}
+.aside h1{
+    vertical-align: center;
+
+}
+.content{
+
+    width:calc(70% - 20px);
+    background-color: blue;
+    margin-top:5px;
+    margin-left: 20px;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+section{
+    width:calc(70% - 20px);;  
+    
+    background-color: rgb(230, 148, 27);
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+}
+footer{
+    width:100%;
+    background-color: aqua;
+    float: left;
+    margin-top: 10px;
+    text-align: center;
+    
+}
